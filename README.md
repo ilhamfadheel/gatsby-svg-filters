@@ -3,6 +3,9 @@
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a>
+  <a href="https://www.ilhamfadhil.com">
+    <img alt="Gatsby" src="https://ilhamfadhil.com/wp-content/uploads/2019/08/cropped-cropped-IF.png" width="60" />
+  </a>
 </p>
 <h1 align="center">
   Gatsby-svg-filters by Ilham
@@ -29,6 +32,8 @@ Using <a href="https://www.gatsbyjs.org/"> GatsbyJS </a> starter pack, I am crea
     ```shell
     # install Gatsby JS globally
     npm install -g gatsby-cli
+    #check gatsby version
+    gatsby -v
     ```
     
 2.  **Clone this Repo **
