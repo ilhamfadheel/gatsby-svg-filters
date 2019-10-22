@@ -8,7 +8,7 @@
   Gatsby-svg-filters by Ilham
 </h1>
 
-Using <a href="https://www.gatsbyjs.org/"> GatsbyJS </a> starter I am creating SVG-filters project by making reusable React components based on <a href="//www.w3schools.com/graphics/svg_filters_intro.aspthat"> SVG_filters </a>
+Using <a href="https://www.gatsbyjs.org/"> GatsbyJS </a> starter pack, I am creating SVG-filters project by making reusable React components based on <a href="//www.w3schools.com/graphics/svg_filters_intro.aspthat"> SVG_filters </a> that you can use.
 
 
 
@@ -30,8 +30,15 @@ Using <a href="https://www.gatsbyjs.org/"> GatsbyJS </a> starter I am creating S
     # install Gatsby JS globally
     npm install -g gatsby-cli
     ```
+    
+2.  **Clone this Repo **
 
-1.  **Run GatsbyJS locally in port 8080 **
+    ```shell
+    # clone this repo
+    git clone https://github.com/ilhamfadheel/gatsby-svg-filters
+    ```
+
+3.  **Run GatsbyJS locally in port 8080 **
 
     ```shell
     # run this command inside the folder to run locally
