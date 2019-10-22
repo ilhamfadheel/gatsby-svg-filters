@@ -14,8 +14,7 @@ const Footer = () => (
                 textDecoration: "none",
 
             }}
-    >Ilham Fadhil</a>
-    <br/>Built with    
+    >Ilham Fadhil</a>, Built with    
     {` `}<i className="fas fa-code"></i>
     {` and`}
     {` `}<i className="far fa-heart"></i>

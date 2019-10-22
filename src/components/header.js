@@ -29,7 +29,7 @@ const Header = ({ siteTitle }) => (
           <img alt="Gatsby" style={{margin: 0}} src="https://ilhamfadhil.com/wp-content/uploads/2019/08/cropped-cropped-IF.png" width="25" />
         </Link>
       </h5>
-      <h6 style={{ margin: 0 }}>
+      <h6 style={{ margin: 0 ,paddingTop: 8}}>
         <Link
           to="/page-2"
           style={{
@@ -37,7 +37,7 @@ const Header = ({ siteTitle }) => (
             textDecoration: `none`,
           }}
         >
-          Turbulence Effect
+          &lt;Turbulence Effect&gt;
         </Link>
       </h6>
     </div>
