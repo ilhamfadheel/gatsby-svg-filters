@@ -8,7 +8,7 @@
   Gatsby-svg-filters by Ilham
 </h1>
 
-Using GatsbyJS (ReactJS) starter I am creating SVG-filters project by creating JSX components based on <a href="//www.w3schools.com/graphics/svg_filters_intro.aspthat"> SVG_filters </a>
+Using GatsbyJS (ReactJS) starter I am creating SVG-filters project by making reusable React components based on <a href="//www.w3schools.com/graphics/svg_filters_intro.aspthat"> SVG_filters </a>
 
 
 
