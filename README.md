@@ -3,7 +3,7 @@
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a>
-  <h1>&</h1>
+  &
   <a href="https://www.ilhamfadhil.com">
     <img alt="Gatsby" src="https://ilhamfadhil.com/wp-content/uploads/2019/08/cropped-cropped-IF.png" width="60" />
   </a>
