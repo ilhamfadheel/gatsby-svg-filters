@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/gatsby-svg-filters",
   siteMetadata: {
     title: `Gatsby SVG Filters`,
     description: `SVGFilters implementation(s) ran using Gatsbyjs `,
