@@ -16,30 +16,40 @@ const Header = ({ siteTitle }) => (
         padding: `1.45rem 1.0875rem`,
         display: `flex`,
       }}
-    >
-      <h5 style={{ margin: 0 }}>
-        <Link
+    > 
+      <Link
           to="/"
           style={{
-            color: `white`,
+            color: `lightgrey`,
             textDecoration: `none`,
-            paddingRight: 15,
           }}
         >
           <img alt="Gatsby" style={{margin: 0}} src="https://ilhamfadhil.com/wp-content/uploads/2019/08/cropped-cropped-IF.png" width="25" />
         </Link>
-      </h5>
-      <h6 style={{ margin: 0 ,paddingTop: 8}}>
-        <Link
+      <Link
+          to="/"
+          style={{
+            color: `black`,
+            textDecoration: `none`,
+            paddingRight: 15,
+            paddingTop: 10,
+          }}>
+        <h5 style={{ margin: 0 }}>
+          &lt;Home&gt;
+        </h5>
+      </Link>
+      <Link
           to="/page-2"
           style={{
-            color: `white`,
+            color: `lightgrey`,
             textDecoration: `none`,
-          }}
-        >
-          &lt;Turbulence Effect&gt;
-        </Link>
-      </h6>
+            bottom: 0,
+            paddingTop: 10,
+          }}>
+        <h5 style={{ margin: 0 }}>        
+            &lt;Turbulence Effect&gt;
+        </h5>
+      </Link>
     </div>
   </header>
 )

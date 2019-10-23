@@ -12,5 +12,4 @@ const SecondPage = () => (
     <Link to="/">Home</Link>
   </Layout>
 )
-
 export default SecondPage
