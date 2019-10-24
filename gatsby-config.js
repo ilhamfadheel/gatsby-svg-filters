@@ -23,8 +23,8 @@ module.exports = {
         short_name: `svg-filters`,
         lang: `en`,
         start_url: `/`,
-        background_color: `#4ade21`,
-        theme_color: `#4ade21`,
+        background_color: `#72798b`,
+        theme_color: `#72798b`,
         display: `minimal-ui`,
         icon: `src/images/IF.png`, // This path is relative to the root of the site.
       },
