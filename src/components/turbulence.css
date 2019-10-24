@@ -1,0 +1,18 @@
+.backgroundbeach {
+    margin: auto;
+    height: 356px;
+    width: 634px;
+    background-image: url("../images/sea.jpg");
+    background-size: cover;
+  }
+  
+.backgroundbeach .water {
+    background-image: url("../images/sea-map.png");
+    background-size: cover;
+    top:0;
+    left:0;
+    height: 100%;
+    width: 100%;
+    filter: url("#turbulence");
+  }
+  

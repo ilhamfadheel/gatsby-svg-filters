@@ -5,7 +5,8 @@ import React from "react"
 const Header = ({ siteTitle }) => (
   <header
     style={{
-      background: `rebeccapurple`,
+      background: `rgb(114,121,139)`,
+      background: `linear-gradient(180deg, rgba(114,121,139,1) 0%, rgba(255,255,255,1) 100%)`,
       marginBottom: `1.45rem`,
     }}
   >
@@ -17,15 +18,9 @@ const Header = ({ siteTitle }) => (
         display: `flex`,
       }}
     > 
-      <Link
-          to="/"
-          style={{
-            color: `lightgrey`,
-            textDecoration: `none`,
-          }}
-        >
+      <Link to="/" >
           <img alt="Gatsby" style={{margin: 0}} src="https://ilhamfadhil.com/wp-content/uploads/2019/08/cropped-cropped-IF.png" width="25" />
-        </Link>
+      </Link>
       <Link
           to="/"
           style={{
@@ -35,19 +30,19 @@ const Header = ({ siteTitle }) => (
             paddingTop: 10,
           }}>
         <h5 style={{ margin: 0 }}>
-          &lt;Home&gt;
+          Home
         </h5>
       </Link>
       <Link
-          to="/page-2"
+          to="/turbulence/"
           style={{
-            color: `lightgrey`,
+            color: `#0366d6`,
             textDecoration: `none`,
             bottom: 0,
             paddingTop: 10,
           }}>
         <h5 style={{ margin: 0 }}>        
-            &lt;Turbulence Effect&gt;
+            &lt;Turbulence&gt;
         </h5>
       </Link>
     </div>

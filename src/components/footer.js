@@ -10,7 +10,7 @@ const Footer = () => (
     © {new Date().getFullYear()} 
     {` `} <a href="https://ilhamfadhil.com" 
             style={{
-                color: "purple",
+                color: `#0366d6`,
                 textDecoration: "none",
 
             }}
