@@ -3,15 +3,14 @@ import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Sprite from "../images/sprite"
 
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <article class="markdown-body entry-content p-5" itemprop="text">
 <p align="center" style={{marginBottom: "0"}}>
-  <a href="https://www.gatsbyjs.org" rel="nofollow">
-    <img alt="Gatsby" src="https://camo.githubusercontent.com/ac31ac54c2013850b0fb8a3a4926f4718a398fb3/68747470733a2f2f7777772e6761747362796a732e6f72672f6d6f6e6f6772616d2e737667" width="60" data-canonical-src="https://www.gatsbyjs.org/monogram.svg" style={{maxWidth:"100%"}}/>
-  </a>
+  <Sprite/>
 </p>
 <h1 align="center"><a id="user-content---gatsby-svg-filters-by-ilham-fadhil" class="anchor" aria-hidden="true" ></a>
   gatsby-svg-filters by Ilham Fadhil
@@ -56,7 +55,7 @@ starter, an open source framework based on ReactJS. this SVG-filters project is 
 </article><br/>
     <h4>
     <Link 
-      to="/turbulence/"
+      to="/turbulence"
       style={{
         color: `#0366d6`,
       }}

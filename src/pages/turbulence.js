@@ -5,6 +5,7 @@ import SEO from "../components/seo"
 import Turbulence from "../components/turbulence"
 import "../components/turbulence.css"
 import { Link } from "gatsby"
+import Sprite from "../images/sprite"
 
 const TurbulencePage = () => (
   <Layout>
@@ -12,7 +13,7 @@ const TurbulencePage = () => (
     <article>
       <p align="center">
       <Link to="/" >
-          <img alt="Gatsby" style={{margin: 0,borderRadius: 50,borderStyle: `solid`}} src="https://ilhamfadhil.com/wp-content/uploads/2019/08/cropped-cropped-IF.png" width="60" />
+        <Sprite/>
       </Link>
         <h1>Turbulence Effect Implementation</h1>
       </p>
