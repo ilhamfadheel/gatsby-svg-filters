@@ -15,4 +15,7 @@
     width: 100%;
     filter: url("#turbulence");
   }
+svg{
+    display: none;
+}
   

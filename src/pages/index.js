@@ -38,23 +38,23 @@ starter, an open source framework based on ReactJS. this SVG-filters project is 
 <p>**Install GatsbyJS **</p>
 <div class="highlight highlight-source-shell"><pre><span class="pl-c">
   <span class="pl-c">#</span> install Gatsby JS globally</span>
-<br/>npm install -g gatsby-cli<br/>
+<br/>$npm install -g gatsby-cli<br/>
 <span class="pl-c"><span class="pl-c">#</span>check gatsby version</span>
-<br/>gatsby -v</pre></div>
+<br/>$gatsby -v</pre></div>
 </li>
 <li>
 <p>**Clone this Repo **</p>
 <div class="highlight highlight-source-shell"><pre><span class="pl-c"><span class="pl-c">#</span> clone this repo</span>
-<br/>git clone https://github.com/ilhamfadheel/gatsby-svg-filters</pre></div>
+<br/>$git clone https://github.com/ilhamfadheel/gatsby-svg-filters</pre></div>
 </li>
 <li>
 <p>**Run GatsbyJS locally in port 8080 **</p>
 <div class="highlight highlight-source-shell"><pre><span class="pl-c"><span class="pl-c">#</span> run this command inside the folder to run locally</span>
-<br/>gatsby develop</pre></div>
+<br/>$gatsby develop</pre></div>
 </li>
 </ol>
 </article><br/>
-    <h3>
+    <h4>
     <Link 
       to="/turbulence/"
       style={{
@@ -64,7 +64,7 @@ starter, an open source framework based on ReactJS. this SVG-filters project is 
       <i className="fas fa-arrow-right"> </i>
       {` `}
       Go to Turbulence Effect Implementation</Link>
-    </h3>
+    </h4>
   </Layout>
 )
 

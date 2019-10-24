@@ -7,7 +7,7 @@ const Header = ({ siteTitle }) => (
     style={{
       background: `rgb(114,121,139)`,
       background: `linear-gradient(180deg, rgba(114,121,139,1) 0%, rgba(255,255,255,1) 100%)`,
-      marginBottom: `1.45rem`,
+      marginBottom: `-1.45rem`,
     }}
   >
     <div
