@@ -1,9 +1,4 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
-  by
   <a href="https://www.ilhamfadhil.com">
     <img alt="Gatsby" src="https://ilhamfadhil.com/wp-content/uploads/2019/08/cropped-cropped-IF.png" width="60" />
   </a>
@@ -12,7 +7,7 @@
   Gatsby-svg-filters by Ilham Fadhil
 </h1>
 
-Using <a href="https://www.gatsbyjs.org/"> GatsbyJS </a> starter pack, I am creating SVG-filters project by making reusable React components based on <a href="//www.w3schools.com/graphics/svg_filters_intro.aspthat"> SVG_filters </a> that you can use.
+Using <a href="https://www.gatsbyjs.org/"> GatsbyJS </a> starter pack, I am creating SVG-filters project by making reusable React components based on <a href="//www.w3schools.com/graphics/svg_filters_intro.asp"> SVG_filters </a> that you can use.
 
 
 
