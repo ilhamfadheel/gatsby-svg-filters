@@ -16,7 +16,7 @@ const IndexPage = () => (
   gatsby-svg-filters by Ilham Fadhil
 </h1>
 <p>This Project uses <a href="//www.gatsbyjs.org/" rel="nofollow"> GatsbyJS </a> 
-starter, an open source framework based on ReactJS and is aimed to implement &nbsp;
+starter( an open source framework based on ReactJS ) and is aimed to implement &nbsp;
 <a href="//www.w3schools.com/graphics/svg_filters_intro.asp" rel="nofollow">SVG_filters</a>, which are used to add special effects to SVG graphics.
 </p>
 <p> Github repo for this Project can be found here: &nbsp;
