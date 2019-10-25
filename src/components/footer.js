@@ -5,8 +5,7 @@ const Footer = () => (
     <footer
         style={{
             textAlign: "center",
-            paddingBottom: 10,
-            background: `linear-gradient(0deg, rgba(114,121,139,1) 0%, rgba(255,255,255,1) 50%)`,
+            paddingBottom: 10,            
         }}
     >
     © {new Date().getFullYear()} 

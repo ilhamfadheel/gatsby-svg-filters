@@ -3,8 +3,8 @@ import React from 'react'
 const Turbulence = () => {
 	return (
         <>
-        <div class="cover">
-            <div class="backgroundbeach">
+        <div align="center" style={{maxWidth: "634px", margin: "auto"}}>
+            <div class="backgroundbeach" align="center" >
                 <div class="water">
                 </div>
             </div>

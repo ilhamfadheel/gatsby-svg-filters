@@ -1,27 +1,14 @@
-.cover {
-    margin: auto;
-    max-width: 634px;
-    height: auto;
-    width: auto;
-}
 .backgroundbeach {
-    height: 356px;
+    height: 354px;
     background-image: url("../images/sea.jpg");
     background-position: center;
-    background-repeat: no-repeat;
     background-size: cover;
-    position: relative;
-
   }
   
 .backgroundbeach .water {
     background-image: url("../images/sea-map.png");
     background-position: center;
-    background-repeat: no-repeat;
-    position: relative;
     background-size: cover;
-    top:0;
-    left:0;
     height: 100%;
     filter: url("#turbulence");
   }

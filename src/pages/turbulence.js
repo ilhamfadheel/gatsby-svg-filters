@@ -28,7 +28,7 @@ const TurbulencePage = () => (
       </p>
       <div align="center">
           <div style={{width: `100%`, maxWidth: `634px`}} >
-            <Sea> </Sea>
+            <Sea/>
             <p align="center">
              Sea.jpg
             </p>
@@ -40,7 +40,7 @@ const TurbulencePage = () => (
             </p>
           </div>
       </div>
-    <p align="left">Below is the SVG Turbulence in effect:</p>
+    <p align="left">SVG Turbulence in effect:</p>
     <Turbulence/>
     <p align="center">
           The effect is viewed better in Desktop View <i class="fas fa-desktop"></i>
