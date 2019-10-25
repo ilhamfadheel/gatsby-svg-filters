@@ -8,7 +8,7 @@ const Turbulence = () => {
                 <div class="water">
                 </div>
             </div>
-            <svg>
+        <svg>
             <filter id="turbulence" x="0" y="0" width="100%" height="100%">
                 <feTurbulence id="sea-filter" numOctaves="3" seed="2" baseFrequency="0.02 0.05"></feTurbulence>
                 <feDisplacementMap scale="20" in="SourceGraphic"></feDisplacementMap>

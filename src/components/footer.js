@@ -5,6 +5,8 @@ const Footer = () => (
     <footer
         style={{
             textAlign: "center",
+            paddingBottom: 10,
+            background: `linear-gradient(0deg, rgba(114,121,139,1) 0%, rgba(255,255,255,1) 50%)`,
         }}
     >
     © {new Date().getFullYear()} 
@@ -14,7 +16,8 @@ const Footer = () => (
                 textDecoration: "none",
 
             }}
-    >Ilham Fadhil</a>, Built with    
+    >Ilham Fadhil</a>
+    <br></br> Built with    
     {` `}<i className="fas fa-code"></i>
     {` and`}
     {` `}<i className="far fa-heart"></i>
